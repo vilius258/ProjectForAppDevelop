@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "320833268245",
+    "firebase_url": "https://mygymapp-610b2.firebaseio.com",
+    "project_id": "mygymapp-610b2",
+    "storage_bucket": "mygymapp-610b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320833268245:android:985d0bf8c1bb3091c47c1c",
+        "android_client_info": {
+          "package_name": "ktu.edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320833268245-nto64c37uscc90ki1cqeh2549guj1vpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ktu.edu",
+            "certificate_hash": "acdec13986dbe29a4c0a99171eef401dc0d7cc4e"
+          }
+        },
+        {
+          "client_id": "320833268245-opvl6j63h63e91kn9gfoj76v3eqo5t2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrM5sygduFFZWPtgFX2YV62DTDabpVjc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320833268245-opvl6j63h63e91kn9gfoj76v3eqo5t2d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
